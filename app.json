@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Bear-coach",
+    "slug": "Bear-coach",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Bear-coach"
+}
